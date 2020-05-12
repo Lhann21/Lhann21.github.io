@@ -1,2 +1,50 @@
 <!DOCTYPE HTML>
 <html lang ="en">
+  <h1>Weekly Pricing Scheme</h1>
+  
+  <body>
+    
+    Notes:
+    	<div>
+          <ul>
+            <li>Extras for each level include all prceeding extras
+            <li>All Prices and walks are in terms of price per week
+              <li>Non-subscription based walks not avalible at this time
+                <li>Cancelation is avlibile anytime after first walk
+          </ul>
+  </div>
+  <div>
+    <table style="width:100%">
+  <tr>
+    <th>Level</th>
+    <th>Walks
+    <th>Extras
+      <th>Price
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>1</td>
+    <td>Personalized socail media for your dog</td>
+      <td> $11.99</td>
+  <tr>
+    <td>Level 2</td>
+    <td>3</td>
+    <td>Free food delivery</td>
+     <td>$3.99</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>5</td>
+    <td>Free dog treats provided after walk</td>
+      <td>$59.99</td>
+      </tr>
+ <tr><td>Level 4</td>
+   <td>7</td>
+   <td>Free dog toy each week</td>
+   <td>$79.99</td>
+      </tr>
+</table>
+  </div>
+  <div>
+  Add-ons: Want an additional service?
+  </body>
